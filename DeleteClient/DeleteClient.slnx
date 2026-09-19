@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DeleteClient/DeleteClient.vcxproj" Id="2bfe8d4a-fc34-446b-9d06-320605a5b4cd" />
+</Solution>
