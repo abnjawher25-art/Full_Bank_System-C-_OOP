@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FindClientScreen/FindClientScreen.vcxproj" Id="99875887-76bf-46a9-a80b-a28bce70364a" />
+</Solution>

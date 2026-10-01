@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AddNewClientScreen/AddNewClientScreen.vcxproj" Id="299b1db5-1248-4970-bf0d-ca1eda2fbb60" />
+</Solution>

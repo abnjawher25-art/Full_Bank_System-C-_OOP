@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TransactionsScreen/TransactionsScreen.vcxproj" Id="ba8586ca-0566-4ca3-b9dc-327bf1a74b6e" />
+</Solution>
