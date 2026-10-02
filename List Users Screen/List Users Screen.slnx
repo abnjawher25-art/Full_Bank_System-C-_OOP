@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="List Users Screen/List Users Screen.vcxproj" Id="380c1e07-b40d-4af5-a747-ed326ab754e1" />
+</Solution>
