@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BalanceTotal/BalanceTotal.vcxproj" Id="62f69bd0-3165-4f92-97da-42999f1061e1" />
+</Solution>
