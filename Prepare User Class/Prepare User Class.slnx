@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Prepare User Class/Prepare User Class.vcxproj" Id="693a5ecb-e393-42ba-a753-5945b5e08bfc" />
+</Solution>

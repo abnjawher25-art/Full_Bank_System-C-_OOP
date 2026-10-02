@@ -3,5 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+<<<<<<< HEAD
   <Project Path="Total Balances Screen/Total Balances Screen.vcxproj" />
+=======
+  <Project Path="Total Balances Screen/Total Balances Screen.vcxproj" Id="1b5259c1-a292-4603-9f9c-098381b6c2fe" />
+>>>>>>> 268c85c (add more files to projects)
 </Solution>
