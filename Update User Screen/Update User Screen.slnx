@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Update User Screen/Update User Screen.vcxproj" Id="3c90f8e9-448d-4c35-bb4c-34381f21dc0e" />
+</Solution>
